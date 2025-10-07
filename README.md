@@ -1,7 +1,7 @@
-# 🎓 Final Exam Project  
+# Final Exam Project  
 **KAN-CCMVI2085U – Machine Learning for Predictive Analytics in Business**  
 
-## 📄 Project Overview  
+## Project Overview  
 This repository contains my **final exam submission** for the course **Machine Learning for Predictive Analytics in Business** at Copenhagen Business School.
 
 **Exam conditions**: This project was completed as a **closed-book, individual written exam without help or external aids**, in accordance with CBS academic integrity policies.
